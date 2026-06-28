@@ -101,13 +101,6 @@ https://github.com/user-attachments/assets/d3e20639-3352-4d90-ac95-a03947a607b6
 
 > **Figura 1:** Diagrama de Caso de Uso — Criação de Playlist e Privacidade.
 
----
-
-### Documentação dos Casos de Uso
-
-*(Inserir capturas das tabelas dos casos de uso.)*
-
-> **Figura 2:** Especificação dos Casos de Uso.
 
 ---
 
